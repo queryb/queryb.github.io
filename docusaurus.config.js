@@ -1,15 +1,15 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://queryb.github.com',
-  baseUrl: '/queryb-site/',
+  url: 'https://queryb.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'queryb', // Usually your GitHub org/user name.
-  projectName: 'queryb-site', // Usually your repo name.
+  projectName: 'queryb.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'QueryB',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
